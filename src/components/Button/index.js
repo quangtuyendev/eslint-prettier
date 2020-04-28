@@ -1,7 +1,7 @@
 import React from 'react';
 
-function index(props) {
-  return <div>This is demo</div>;
+function Button() {
+  return <button type="button">My button</button>;
 }
 
-export default index;
+export default Button;
